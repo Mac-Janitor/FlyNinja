@@ -1,0 +1,55 @@
+{
+	"name": "Fly",
+	"plugin-id": "Sprite",
+	"sid": 993953607144650,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Rotate",
+			"name": "Rotate",
+			"sid": 845245590561847
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 84,
+						"height": 60,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2388857,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 84,
+						"height": 60,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3004711,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 697322627071010,
+				"name": "Default",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

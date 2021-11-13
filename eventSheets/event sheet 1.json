@@ -1,5 +1,28 @@
 {
 	"name": "Event sheet 1",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-tick",
+					"objectClass": "System",
+					"sid": 316772397436848
+				}
+			],
+			"actions": [
+				{
+					"id": "set-speed",
+					"objectClass": "Fly",
+					"sid": 304609180018975,
+					"behaviorType": "Rotate",
+					"parameters": {
+						"speed": "10"
+					}
+				}
+			],
+			"sid": 764180652224691
+		}
+	],
 	"sid": 776513605744421
 }

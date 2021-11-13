@@ -37,6 +37,14 @@
 			"author": "Edward Bonnett",
 			"version": "1.0.0.1",
 			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Rotate",
+			"name": "Rotate",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
 		}
 	],
 	"uniqueId": "q5l5wikuo9r",
@@ -45,7 +53,8 @@
 			"FlySwat",
 			"ScriptReload",
 			"Mouse",
-			"VSCodePlugin"
+			"VSCodePlugin",
+			"Fly"
 		],
 		"subfolders": []
 	},
