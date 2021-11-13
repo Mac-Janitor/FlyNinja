@@ -1,0 +1,10 @@
+{
+	"name": "VSCodePlugin",
+	"plugin-id": "EdwardBonnett_VsCodePlugin",
+	"sid": 145206792182599,
+	"singleglobal-inst": {
+		"type": "VSCodePlugin",
+		"properties": {},
+		"uid": 5
+	}
+}

@@ -5,10 +5,48 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [],
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "EdwardBonnett_ScriptReload",
+			"name": "Script Reload",
+			"author": "Edward Bonnett",
+			"version": "1.0.0.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Mouse",
+			"name": "Mouse",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "EdwardBonnett_VsCodePlugin",
+			"name": "VS Code Plugin",
+			"author": "Edward Bonnett",
+			"version": "1.0.0.1",
+			"bundled": false
+		}
+	],
 	"uniqueId": "q5l5wikuo9r",
 	"objectTypes": {
-		"items": [],
+		"items": [
+			"FlySwat",
+			"ScriptReload",
+			"Mouse",
+			"VSCodePlugin"
+		],
 		"subfolders": []
 	},
 	"autosaveData": null,
@@ -31,7 +69,16 @@
 	},
 	"rootFileFolders": {
 		"script": {
-			"items": [],
+			"items": [
+				{
+					"name": "main.js",
+					"type": "application/javascript",
+					"sid": 206861518620278,
+					"script-info": {
+						"purpose": "main"
+					}
+				}
+			],
 			"subfolders": []
 		},
 		"sound": {

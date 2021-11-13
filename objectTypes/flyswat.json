@@ -1,0 +1,49 @@
+{
+	"name": "FlySwat",
+	"plugin-id": "Sprite",
+	"sid": 984815381248876,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 257,
+						"height": 746,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7931913,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 429,
+						"height": 530,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5877922,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 678024305676989,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
